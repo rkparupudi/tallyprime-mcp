@@ -8,6 +8,11 @@ It runs on the same Windows machine as TallyPrime and talks to Tally's local
 HTTP server. The books never leave the machine except as the answers Claude
 reads in the conversation.
 
+> **Status: early version, not yet verified against a real TallyPrime.**
+> It has only been tested against the included mock Tally server, which was
+> written from Tally's documentation. Expect parsing fixes on first contact
+> with real data, especially in `get_outstanding`.
+
 ## Tools
 
 | Tool | What it answers |
