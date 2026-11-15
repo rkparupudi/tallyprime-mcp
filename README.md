@@ -113,3 +113,12 @@ pytest
 - Voucher creation (needs a confirm-before-write step).
 - Stock and inventory, GST reports, profit and loss, balance sheet.
 - Packaging as a one-click desktop extension.
+
+## Licence and disclaimer
+
+MIT; see [LICENSE](LICENSE).
+
+This is an independent project. It is not affiliated with, endorsed by or
+supported by Tally Solutions Pvt. Ltd. "Tally" and "TallyPrime" are trademarks
+of their respective owner and are used here only to describe what this
+software connects to.
